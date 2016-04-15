@@ -1,0 +1,37 @@
+{
+  "flat": false,
+  "queries": [
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    },
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select last_name, age from user order by rand() limit 2;"
+    }
+  ]
+}

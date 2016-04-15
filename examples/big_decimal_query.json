@@ -1,0 +1,9 @@
+{
+  "flat": true,
+  "queries": [
+    {
+      "dsn": "root@tcp(127.0.0.1:3306)/test",
+      "query": "select 12345678901234567890.0;"
+    }
+  ]
+}

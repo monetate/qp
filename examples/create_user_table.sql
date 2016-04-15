@@ -1,0 +1,9 @@
+CREATE TABLE `user` (
+    `name` varchar(64) DEFAULT NULL,
+    `age` tinyint(4) DEFAULT NULL,
+    `username` varchar(64) DEFAULT NULL,
+    `password` varchar(64) DEFAULT NULL,
+    `last_name` varchar(64) DEFAULT NULL,
+    `weight` decimal(7,3) DEFAULT NULL,
+    `weight_f` float DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
